@@ -26,6 +26,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ![Screenshot](/Screenshots/Comparisson.png)
 
-## Dat Section
+## Data Section
 
 ![Screenshot](/Screenshots/Data.png)
